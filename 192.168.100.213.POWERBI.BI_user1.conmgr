@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="192.168.100.213.POWERBI.BI_user1"
+  DTS:DTSID="{BFDCFAC0-C411-44FE-B617-6459A100D286}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=192.168.100.213;User ID=BI_user;Initial Catalog=POWERBI;Application Name=SSIS-DatosCubo-{BFDCFAC0-C411-44FE-B617-6459A100D286}192.168.100.213.POWERBI.BI_user1;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAroIIk84aI0eriITHpTro+AAAAAACAAAAAAADZgAAwAAAABAAAACDaw8hse65+eiWnQ7yuzsCAAAAAASAAACgAAAAEAAAAOAmS+3A4mMFrzSRxeQ927iAAAAA8G4zeQq0ePc3l3k5lR6RCK8Ve2bEGA1oHwaX8NMN3oG2iINZ6J21fTJ6o1c4RuIxk1PJ2ahpZWynxTYLruWQARXYRLEEvUJVoHSSXHww1IrRv7Rv4wRY9nGp/olJiTut+p0+3tJ7Sunz1YDBvi1Dd8Xs4g49rF6bUmX3wrTF5oQUAAAA+t8ty3Xc9ibAekmlzwY35iEJAUE=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
